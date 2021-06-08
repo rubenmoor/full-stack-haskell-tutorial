@@ -5,7 +5,7 @@ from zero to hero: install an operating system and hack on a haskell web app
 
 ## Pick one
 
-I choose [https://nixos.org/manual/nixos/stable/index.html#ch-installation](NixOS).
+I choose [NixOS](https://nixos.org/manual/nixos/stable/index.html#ch-installation).
 
 ## Prepare bootable usb installation medium
 
@@ -35,7 +35,7 @@ Better get a nice vim configuration as soon as possible.
 
 Don't know vim yet? 
 
-Read about it [https://danielmiessler.com/study/vim/](here).
+Read about it [here](https://danielmiessler.com/study/vim/).
 
 Or the old-fashioned way: open a terminal, type "vim" and ":help".
 
